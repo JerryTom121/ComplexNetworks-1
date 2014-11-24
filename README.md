@@ -1,10 +1,12 @@
+# Python Tools for Netowork Analysis
+
 ---
 
 Dr. André Panisson
 
 ---
 
-This course, **Python Tools for Netowork Analysis**, is divided in 2 IPython notebooks:
+This course is divided in 2 IPython notebooks:
 
 1. [Network Analysis - Part 1](http://nbviewer.ipython.org/github/panisson/ComplexNetworks/blob/master/NetworkAnalysis-01.ipynb)
 2. [Network Analysis - Part 2](http://nbviewer.ipython.org/github/panisson/ComplexNetworks/blob/master/NetworkAnalysis-02.ipynb)
